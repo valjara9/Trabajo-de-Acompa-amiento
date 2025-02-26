@@ -1,2 +1,2 @@
-# Registro sanitario de medicamentos homeopáticos: Un análisis 
+# Pacientes con enfermedades hepáticas y diabétes 
 ###### *Trabajo De Acompañamiento*
