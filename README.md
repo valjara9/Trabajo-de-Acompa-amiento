@@ -1,5 +1,5 @@
 # Análisis de datos médicos de pacientes: variables clínicas y metabólicas
-###### *Trabajo De Acompañamiento*
+*Trabajo De Acompañamiento*
 
 Se presenta información médica de diferente índole de alrededor 100 pacientes en una base de datos con el fin de generar información relacionada a la salud de los pacientes y las diferentes relaciones que pueden haber entre los resultado de las variables descritas.
 Se tienen 15 columnas con información básica (edad, sexo, estrato, peso, IMC) e información clínina (presencia de diabetes, uso de medicamentos antidepresivos y oara el tratamiento de HTA, presión arterial media, presencia de hígado graso) y metabólica (índice de glucosa en ayunas, pesencia de enzimas AST y ATL).
