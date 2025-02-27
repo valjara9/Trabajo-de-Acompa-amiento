@@ -127,11 +127,11 @@ Se representa la distribución de los niveles de transaminasas hepáticas en fun
 
 ![Captura de pantalla 2025-02-27 120441](https://github.com/user-attachments/assets/30e49181-c619-4942-bceb-c6ec4ead907a)
 
-*Distribución de AST aspartato aminotransferasa (Color azul)
+*Distribución de AST aspartato aminotransferasa (Color azul)*
 - Se observa que los valores de AST tienden a agruparse en un rango de 50 a 80 unidades.
 - No parece haber una relación clara entre el IMC y los niveles de AST, ya que los datos están dispersos en diferentes valores de IMC sin una tendencia evidente.
 
-*Distribución de ALT alanina aminotransferasa (Color violeta)
+*Distribución de ALT alanina aminotransferasa (Color violeta)*
 - Los valores de ALT están más dispersos y generalmente son más altos que los de AST, con una mayor densidad en el rango de 100 a 140 unidades.
 - A diferencia de AST, ALT muestra una mayor variabilidad a medida que el IMC aumenta.
 
